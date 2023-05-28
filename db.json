@@ -1,0 +1,52 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "gerry",
+      "email": "gerry@gmail.com",
+      "mobile": 741288999,
+      "city": "kenya"
+    },
+    {
+      "id": 3,
+      "name": "harry",
+      "email": "harry@gmail.com",
+      "mobile": 2134567656,
+      "city": "london"
+    },
+    {
+      "id": 4,
+      "name": "kush",
+      "email": "kush@gmail.com",
+      "mobile": 3546768675,
+      "city": "kisumu"
+    },
+    {
+      "id": 5,
+      "name": "Jabanese",
+      "email": "bella@gmail.com",
+      "mobile": 712973699,
+      "city": "Meru"
+    },
+    {
+      "id": 6,
+      "name": "gidy",
+      "email": "gidy@gmail.com",
+      "mobile": 113245444,
+      "city": "nairobi"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  },
+  "signup": [
+    {
+      "name": "gerry",
+      "email": "gerry1@gmail.com",
+      "mobile": "0741211111",
+      "password": "gerry",
+      "id": 1
+    }
+  ]
+}
