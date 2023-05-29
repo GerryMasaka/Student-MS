@@ -34,6 +34,13 @@
       "email": "gidy@gmail.com",
       "mobile": 113245444,
       "city": "nairobi"
+    },
+    {
+      "id": 7,
+      "name": "josh",
+      "email": "josh@gmail.com",
+      "mobile": 81234724,
+      "city": "kisumu"
     }
   ],
   "comments": [],
@@ -47,6 +54,13 @@
       "mobile": "0741211111",
       "password": "gerry",
       "id": 1
+    },
+    {
+      "name": "john",
+      "email": "john@gmail.com",
+      "mobile": "111222",
+      "password": "john",
+      "id": 2
     }
   ]
 }
